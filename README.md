@@ -18,7 +18,7 @@
 
 ### Course of study:
 
-### Current average: 29.667
+### Current average: 29.0
 
 ---
 
@@ -31,3 +31,4 @@
 Advanced Computer Architecture | 30L | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Advanced%20Computer%20ArchitectureStats.md) | None |
 Computer Security | 29 | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Computer%20SecurityStats.md) | None |
 Computing Infrastructure | 30L | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Computing%20InfrastructureStats.md) | None |
+Model Identification & Data Analysis 1 | 27 | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Model%20Identification%20%26%20Data%20Analysis%201Stats.md) | None |
