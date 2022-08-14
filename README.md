@@ -16,7 +16,7 @@
 
 ---
 
-### Course of study:
+### Degree: Computer Science & Engineering
 
 ### Current average: 29.0
 
