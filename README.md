@@ -18,7 +18,7 @@
 
 ### Degree: Computer Science & Engineering
 
-### Current average: 29.2
+### Current average: 29.333
 
 ---
 
@@ -33,3 +33,4 @@ Computer Security | 29 | [stats](https://github.com/Vaccarini-Lorenzo/Academic-J
 Computing Infrastructure | 30L | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Computing%20InfrastructureStats.md) | None |
 Model Identification & Data Analysis 1 | 27 | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Model%20Identification%20%26%20Data%20Analysis%201Stats.md) | None |
 Internet of Things | 30L | None | [External link](https://github.com/Vaccarini-Lorenzo/IoT_Final_Project.git) |
+Advanced Operating Systems | 30L | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Advanced%20Operating%20SystemsStats.md) | None |
