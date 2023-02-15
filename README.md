@@ -32,4 +32,4 @@ Advanced Computer Architecture | 30L | [stats](https://github.com/Vaccarini-Lore
 Computer Security | 29 | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Computer%20SecurityStats.md) | None |
 Computing Infrastructure | 30L | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Computing%20InfrastructureStats.md) | None |
 Model Identification & Data Analysis 1 | 27 | [stats](https://github.com/Vaccarini-Lorenzo/Academic-Journal/blob/master/Model%20Identification%20%26%20Data%20Analysis%201Stats.md) | None |
-Internet of Things | 30L | None |[External link](https://github.com/Vaccarini-Lorenzo/IoT_Final_Project.git) |
+Internet of Things | 30L | None | [External link](https://github.com/Vaccarini-Lorenzo/IoT_Final_Project.git) |
